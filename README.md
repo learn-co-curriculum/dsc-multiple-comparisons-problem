@@ -12,7 +12,6 @@ You will be able to:
 - Explain why multiple comparisons increases the likelihood of misleading results 
 - Explain the concept of spurious correlation 
 - Use corrections to deal with multiple comparison problems 
-- Identify real-world examples of Goodhart's law in action 
 
 
 ## What is the multiple comparisons problem?
