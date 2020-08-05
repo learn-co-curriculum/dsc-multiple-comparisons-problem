@@ -52,9 +52,9 @@ Here's another easy to way to phrase this -- a p-value threshold of less than 0.
 
 ## The Bonferroni correction
 
-Back to the problem of multiple comparisons. Due to the cumulative risk of drawing false conclusions when statistically testing multiple quantities simultaneously, statisticians have devised methods to minimize the chance of type 1 errors. One of these is the **_Bonferroni correction_**.  With the Bonferroni correction, you divide $\alpha$ by the number of comparisons you are making to set a new, adjusted threshold rejecting the null hypothesis.
+Back to the problem of multiple comparisons. Due to the cumulative risk of drawing false conclusions when statistically testing multiple quantities simultaneously, statisticians have devised methods to minimize the chance of type 1 errors. One of these is the **_Bonferroni correction_**.  With the Bonferroni correction, you divide  <img src="https://render.githubusercontent.com/render/math?math=\alpha"> by the number of comparisons you are making to set a new, adjusted threshold rejecting the null hypothesis.
 
-For example, if you desire $\alpha = 0.05$, but are making 10 comparisons simultaneously, the Bonferroni Correction would advise you set our adjusted p-value threshold to $\frac{0.05}{10} = 0.005$!  The stricter p-value threshold helps control for Type 1 errors.  This doesn't mean that you are immune to them -- it just helps reduce the cumulative chance that one occurs. That said, the effective power of these tests is therefore reduced (and in turn type 2 errors are more likely).
+For example, if you desire  <img src="https://render.githubusercontent.com/render/math?math=\alpha = 0.05"> , but are making 10 comparisons simultaneously, the Bonferroni Correction would advise you set our adjusted p-value threshold to  <img src="https://render.githubusercontent.com/render/math?math=\frac{0.05}{10} = 0.005"> !  The stricter p-value threshold helps control for Type 1 errors.  This doesn't mean that you are immune to them -- it just helps reduce the cumulative chance that one occurs. That said, the effective power of these tests is therefore reduced (and in turn type 2 errors are more likely).
 
 ## Additional Resources
 
