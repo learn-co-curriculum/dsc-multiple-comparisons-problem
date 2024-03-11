@@ -33,10 +33,10 @@ To restate this, imagine we take 100 scientific studies with a p-value of 0.03. 
 
 Similarly, if you are testing multiple metrics simultaneously in an experiment, the chances that one of these will satisfy your alpha threshold increases. A fun similar phenomenon is spurious correlation. If we start comparing a multitude of quantities, we are bound to find some quantities that are highly correlated, whether or not an actual relationship exists. Tyler Vigen set out to find such relationships; here are a few entertaining ones (of many):  
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/nicolas_cage_vs_drowning.svg">
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/chicken_vs_oil.svg">
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/math_phds_vs_uranium.svg">
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/spelling_vs_spiders.svg">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/nicolas_cage_vs_drowning.png/nicolas_cage_vs_drowning.png">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/chicken_vs_oil.png/chicken_vs_oil.png">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/math_phds_vs_uranium.png/math_phds_vs_uranium.png">
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/spelling_vs_spiders.png/spelling_vs_spiders.png">
 
 
 
